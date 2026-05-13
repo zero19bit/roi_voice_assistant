@@ -1,0 +1,5 @@
+{
+"model_path_FA" : "model/vosk-model-fa-0.42",
+"model_path_TR" : "model/vosk-model-small-tr-0.3",
+"model_path_US" : "model/vosk-model-small-en-us-0.15"
+}
